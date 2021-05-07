@@ -1,6 +1,6 @@
 # Algo Scheduler App
 
-Algo Scheduler App is built in React Native.       
+Algo Scheduler App is built in React Native. The App will display which process will own CPU for execution while another process is on hold. It's objective is to increase system performance in accordance with the chosen set of criteria.    
 
 ## Preview
 
