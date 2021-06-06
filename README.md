@@ -20,6 +20,6 @@ Algo Scheduler App is built in React Native. The App will display which process 
        
          
        
-   
+     
  
  
